@@ -10,5 +10,8 @@ First attempt at a project that was a couple thousand lines long
 Second scouting project which built upon what I learnt in the first project. Built on a concept of modfiability in that it can be modified for the different games each year through the use of the editor. Expanded my knowledge of working with java swing and interconecting the various components. 
 
 #### SheetScouterv1
-First attempt over the course of the 2017 year in which I used the format of recording data on a spreadsheet and then using a program to compile all the data gathered on a specific team. One of the first projects where there isn't a clear structure for the program, which resulted in rewriting the program for version 2
+First attempt over the course of the 2017 FRC competition in which I used the format of recording data on a spreadsheet and then using a program to compile all the data gathered on a specific team. One of the first projects where there isn't a clear structure for the program, which resulted in rewriting the program for version 2
+
+#### SheetScouterv2
+Second attempt at creating a program to parse data from a spreadsheet, rewritten again due to structural issues.
 
